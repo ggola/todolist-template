@@ -1,7 +1,7 @@
-template for todolist web app
+A simple template for a todolist web app
 
 Deployed in Heroku
-https://limitless-chamber-91803.herokuapp.com/
+https://dry-lowlands-42950.herokuapp.com
 with data persisted in mongoDB Atlas
 
 FEATURES

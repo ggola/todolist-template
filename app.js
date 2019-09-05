@@ -15,7 +15,7 @@ app.use(bodyParser.urlencoded({
 }));
 app.use(express.static("public"));
 
-// connect mongoose with url of mongo (here localhost)
+// connect mongoose with url of mongo
 mongoose.connect("mongodb://localhost:27017/todolistDB", {
   useNewUrlParser: true, useFindAndModify: true
 });
